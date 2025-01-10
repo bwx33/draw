@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 OPR/116.0.0.0" version="26.0.4">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="1453" dy="813" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
+    <mxGraphModel dx="1725" dy="965" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,31 +13,31 @@
         <mxCell id="icHruYLdTanhfY2WVvGW-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="100" width="270" height="1150" as="geometry" />
         </mxCell>
-        <mxCell id="icHruYLdTanhfY2WVvGW-6" value="PROCES REKRUTACJI" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="icHruYLdTanhfY2WVvGW-6" value="PROCES REKRUTACJI" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="40" y="60" width="710" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="icHruYLdTanhfY2WVvGW-7" value="Kandydat" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="icHruYLdTanhfY2WVvGW-7" value="Kandydat" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
           <mxGeometry x="40" y="100" width="220" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="icHruYLdTanhfY2WVvGW-8" value="Rekruter" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="icHruYLdTanhfY2WVvGW-8" value="Rekruter" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
           <mxGeometry x="240" y="100" width="240" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="icHruYLdTanhfY2WVvGW-9" value="System HR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="icHruYLdTanhfY2WVvGW-9" value="System HR" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
           <mxGeometry x="480" y="100" width="270" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="icHruYLdTanhfY2WVvGW-13" value="Przesłanie CV" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="icHruYLdTanhfY2WVvGW-13" value="Przesłanie CV" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="60" y="450" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="icHruYLdTanhfY2WVvGW-14" value="Przygotowanie ogłoszenia o pracę" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="icHruYLdTanhfY2WVvGW-14" value="Przygotowanie ogłoszenia o pracę" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="290" y="250" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="icHruYLdTanhfY2WVvGW-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="icHruYLdTanhfY2WVvGW-15" target="icHruYLdTanhfY2WVvGW-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="icHruYLdTanhfY2WVvGW-15" value="Wstępne automatyczne sprawdzenie CV w kontekście wymagań oferty pracy" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="icHruYLdTanhfY2WVvGW-15" value="Wstępne automatyczne sprawdzenie CV w kontekście wymagań oferty pracy" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="605" y="380" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="icHruYLdTanhfY2WVvGW-16" value="Ogłoszenie umieszczone w systemie" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="icHruYLdTanhfY2WVvGW-16" value="Ogłoszenie umieszczone w systemie" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="530" y="250" width="170" height="50" as="geometry" />
         </mxCell>
         <mxCell id="icHruYLdTanhfY2WVvGW-42" value="NIE" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="icHruYLdTanhfY2WVvGW-24" target="icHruYLdTanhfY2WVvGW-41">
@@ -51,19 +51,19 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="icHruYLdTanhfY2WVvGW-24" value="czy CV jest zgodne z wymaganiami?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="icHruYLdTanhfY2WVvGW-24" value="czy CV jest zgodne z wymaganiami?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="600" y="470" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="icHruYLdTanhfY2WVvGW-128" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="icHruYLdTanhfY2WVvGW-37" target="icHruYLdTanhfY2WVvGW-43">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="icHruYLdTanhfY2WVvGW-37" value="Weryfikacja CV przez rekrutera" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="icHruYLdTanhfY2WVvGW-37" value="Weryfikacja CV przez rekrutera" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="297.5" y="520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="icHruYLdTanhfY2WVvGW-91" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="icHruYLdTanhfY2WVvGW-41" target="icHruYLdTanhfY2WVvGW-80">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="icHruYLdTanhfY2WVvGW-41" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Wysłanie maila&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;z informacją&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;do Kandydata&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="icHruYLdTanhfY2WVvGW-41" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Wysłanie maila&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;z informacją&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;do Kandydata&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="537.5" y="720" width="145" height="65" as="geometry" />
         </mxCell>
         <mxCell id="icHruYLdTanhfY2WVvGW-47" value="NIE" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="icHruYLdTanhfY2WVvGW-43" target="icHruYLdTanhfY2WVvGW-45">
@@ -77,16 +77,16 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="icHruYLdTanhfY2WVvGW-43" value="Czy pozytywna opinia?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="icHruYLdTanhfY2WVvGW-43" value="Czy pozytywna opinia?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="305" y="650" width="105" height="105" as="geometry" />
         </mxCell>
-        <mxCell id="icHruYLdTanhfY2WVvGW-45" value="Wysłanie maila z informacją do Kandydata" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="icHruYLdTanhfY2WVvGW-45" value="Wysłanie maila z informacją do Kandydata" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="370" y="860" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="icHruYLdTanhfY2WVvGW-194" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="icHruYLdTanhfY2WVvGW-51" target="icHruYLdTanhfY2WVvGW-193">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="icHruYLdTanhfY2WVvGW-51" value="Zaproszenie na spotkanie rekrutacyjne" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="icHruYLdTanhfY2WVvGW-51" value="Zaproszenie na spotkanie rekrutacyjne" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="250" y="860" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="icHruYLdTanhfY2WVvGW-55" value="TAK" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="icHruYLdTanhfY2WVvGW-43" target="icHruYLdTanhfY2WVvGW-51">
@@ -102,19 +102,19 @@
         <mxCell id="icHruYLdTanhfY2WVvGW-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="icHruYLdTanhfY2WVvGW-56" target="icHruYLdTanhfY2WVvGW-58">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="icHruYLdTanhfY2WVvGW-56" value="Zaakceptowanie regulaminu systemu rekrutacji" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="icHruYLdTanhfY2WVvGW-56" value="Zaakceptowanie regulaminu systemu rekrutacji" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="60" y="270" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="icHruYLdTanhfY2WVvGW-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="icHruYLdTanhfY2WVvGW-58" target="icHruYLdTanhfY2WVvGW-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="icHruYLdTanhfY2WVvGW-58" value="Podanie informacji w systemie o oczekiwanym wynagrodzeniu i latach doświadczenia" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="icHruYLdTanhfY2WVvGW-58" value="Podanie informacji w systemie o oczekiwanym wynagrodzeniu i latach doświadczenia" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="60" y="360" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="icHruYLdTanhfY2WVvGW-59" value="Założenie profilu kandydata" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="icHruYLdTanhfY2WVvGW-59" value="Założenie profilu kandydata" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="60" y="180" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="icHruYLdTanhfY2WVvGW-60" value="Funkcja obsługi kandydatów" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="icHruYLdTanhfY2WVvGW-60" value="Funkcja obsługi kandydatów" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="530" y="170" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="icHruYLdTanhfY2WVvGW-63" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="icHruYLdTanhfY2WVvGW-59">
@@ -135,7 +135,7 @@
             <mxPoint x="480" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="icHruYLdTanhfY2WVvGW-76" value="Wysłanie powiadomienia do rekrutera" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="icHruYLdTanhfY2WVvGW-76" value="Wysłanie powiadomienia do rekrutera" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="490" y="570" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="icHruYLdTanhfY2WVvGW-78" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="icHruYLdTanhfY2WVvGW-76" target="icHruYLdTanhfY2WVvGW-37">
@@ -147,13 +147,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="icHruYLdTanhfY2WVvGW-80" value="Czy kandydat &lt;br&gt;zaznaczył w swoim &lt;br&gt;profilu chęć wzięcia &lt;br&gt;udziału w przyszłych rekrutacjach?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="icHruYLdTanhfY2WVvGW-80" value="Czy kandydat &lt;br&gt;zaznaczył w swoim &lt;br&gt;profilu chęć wzięcia &lt;br&gt;udziału w przyszłych rekrutacjach?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="520" y="850" width="180" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="icHruYLdTanhfY2WVvGW-92" value="usunięcie CV" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="icHruYLdTanhfY2WVvGW-92" value="usunięcie CV" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="620" y="1050" width="115" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="icHruYLdTanhfY2WVvGW-93" value="Przeniesienie CV do bazy kandydatów" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="icHruYLdTanhfY2WVvGW-93" value="Przeniesienie CV do bazy kandydatów" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="495" y="1050" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="icHruYLdTanhfY2WVvGW-96" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="icHruYLdTanhfY2WVvGW-80" target="icHruYLdTanhfY2WVvGW-93">
@@ -179,11 +179,11 @@
             <mxPoint y="9" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="icHruYLdTanhfY2WVvGW-101" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="icHruYLdTanhfY2WVvGW-101" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="505" y="340" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="icHruYLdTanhfY2WVvGW-102" value="" style="shape=cross;whiteSpace=wrap;html=1;shadow=0;gradientColor=none;fillColor=#000000;size=0.15;" vertex="1" parent="1">
-          <mxGeometry x="525" y="360" width="40" height="40" as="geometry" />
+        <mxCell id="icHruYLdTanhfY2WVvGW-102" value="" style="shape=cross;whiteSpace=wrap;html=1;shadow=0;gradientColor=none;fillColor=#000000;size=0.10628019323671146;" vertex="1" parent="1">
+          <mxGeometry x="520" y="355" width="47.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="icHruYLdTanhfY2WVvGW-105" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="icHruYLdTanhfY2WVvGW-101">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -215,19 +215,19 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="icHruYLdTanhfY2WVvGW-130" value="OCENA PRACOWNIKA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="icHruYLdTanhfY2WVvGW-130" value="OCENA PRACOWNIKA" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="790" y="60" width="1040" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="icHruYLdTanhfY2WVvGW-131" value="Pracownik" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="icHruYLdTanhfY2WVvGW-131" value="Pracownik" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
           <mxGeometry x="790" y="90" width="250" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="icHruYLdTanhfY2WVvGW-132" value="Menedżer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="icHruYLdTanhfY2WVvGW-132" value="Menedżer" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
           <mxGeometry x="1030" y="90" width="240" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="icHruYLdTanhfY2WVvGW-133" value="System HR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="icHruYLdTanhfY2WVvGW-133" value="System HR" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
           <mxGeometry x="1270" y="90" width="280" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="icHruYLdTanhfY2WVvGW-135" value="Dział HR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="icHruYLdTanhfY2WVvGW-135" value="Dział HR" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
           <mxGeometry x="1550" y="90" width="280" height="60" as="geometry" />
         </mxCell>
         <mxCell id="icHruYLdTanhfY2WVvGW-136" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -245,10 +245,10 @@
         <mxCell id="icHruYLdTanhfY2WVvGW-180" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="icHruYLdTanhfY2WVvGW-142" target="icHruYLdTanhfY2WVvGW-179">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="icHruYLdTanhfY2WVvGW-142" value="Menedżer zalogował się do systemu i wybrał opcję &quot;rozpocznij ocenę okresową&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="icHruYLdTanhfY2WVvGW-142" value="Menedżer zalogował się do systemu i wybrał opcję &quot;rozpocznij ocenę okresową&quot;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="1060" y="170" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="icHruYLdTanhfY2WVvGW-143" value="Wysyła powiadomienia" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="icHruYLdTanhfY2WVvGW-143" value="Wysyła powiadomienia" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="1315" y="230" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="icHruYLdTanhfY2WVvGW-144" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="icHruYLdTanhfY2WVvGW-143">
@@ -260,10 +260,10 @@
         <mxCell id="icHruYLdTanhfY2WVvGW-154" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="icHruYLdTanhfY2WVvGW-146" target="icHruYLdTanhfY2WVvGW-153">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="icHruYLdTanhfY2WVvGW-146" value="Otrzymuje powiadomienie i prośbę o wypełnienie arkusza samooceny" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="icHruYLdTanhfY2WVvGW-146" value="Otrzymuje powiadomienie i prośbę o wypełnienie arkusza samooceny" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="830" y="250" width="150" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="icHruYLdTanhfY2WVvGW-147" value="Dział HR wymaga okresowej oceny pracowników.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="icHruYLdTanhfY2WVvGW-147" value="Dział HR wymaga okresowej oceny pracowników.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="1590" y="170" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="icHruYLdTanhfY2WVvGW-150" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="icHruYLdTanhfY2WVvGW-143" target="icHruYLdTanhfY2WVvGW-151">
@@ -272,7 +272,7 @@
             <mxPoint x="1555" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="icHruYLdTanhfY2WVvGW-151" value="Otrzymuje powiadomienie o rozpoczęciu oceny okresowej pracowników" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="icHruYLdTanhfY2WVvGW-151" value="Otrzymuje powiadomienie o rozpoczęciu oceny okresowej pracowników" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="1570" y="260" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="icHruYLdTanhfY2WVvGW-152" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="icHruYLdTanhfY2WVvGW-146">
@@ -281,16 +281,16 @@
             <mxPoint x="1365" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="icHruYLdTanhfY2WVvGW-153" value="Wypełnia arkusz i przesyła go do menadżera" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="icHruYLdTanhfY2WVvGW-153" value="Wypełnia arkusz i przesyła go do menadżera" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="825" y="476.88" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="icHruYLdTanhfY2WVvGW-187" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="icHruYLdTanhfY2WVvGW-155" target="icHruYLdTanhfY2WVvGW-186">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="icHruYLdTanhfY2WVvGW-155" value="Przelicza zebrane dane i sprawdza czy są spełnione wymagania HR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="icHruYLdTanhfY2WVvGW-155" value="Przelicza zebrane dane i sprawdza czy są spełnione wymagania HR" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="1305" y="490" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="icHruYLdTanhfY2WVvGW-157" value="Wypełnia arkusz, gdzie ocenia każdego pracownika" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="icHruYLdTanhfY2WVvGW-157" value="Wypełnia arkusz, gdzie ocenia każdego pracownika" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="1060" y="390" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="icHruYLdTanhfY2WVvGW-167" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="icHruYLdTanhfY2WVvGW-147" target="icHruYLdTanhfY2WVvGW-168">
@@ -299,10 +299,10 @@
             <mxPoint x="1690" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="icHruYLdTanhfY2WVvGW-168" value="Dział HR precyzuje wymagania &lt;br&gt;dotyczące pracowników" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="icHruYLdTanhfY2WVvGW-168" value="Dział HR precyzuje wymagania &lt;br&gt;dotyczące pracowników" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="1580" y="400" width="230" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="icHruYLdTanhfY2WVvGW-171" value="Dodaje własny komentarz pod samooceną pracownika" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="icHruYLdTanhfY2WVvGW-171" value="Dodaje własny komentarz pod samooceną pracownika" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="1060" y="480" width="180" height="53.76" as="geometry" />
         </mxCell>
         <mxCell id="icHruYLdTanhfY2WVvGW-172" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
@@ -314,13 +314,13 @@
         <mxCell id="icHruYLdTanhfY2WVvGW-181" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="icHruYLdTanhfY2WVvGW-179" target="icHruYLdTanhfY2WVvGW-157">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="icHruYLdTanhfY2WVvGW-179" value="Odbywa rozmowę ewaluacyjną z pracownikami" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="icHruYLdTanhfY2WVvGW-179" value="Odbywa rozmowę ewaluacyjną z pracownikami" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="1060" y="305" width="180" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="icHruYLdTanhfY2WVvGW-186" value="Wymagania spełnione?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="icHruYLdTanhfY2WVvGW-186" value="Wymagania spełnione?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="1355" y="580" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="icHruYLdTanhfY2WVvGW-188" value="Dział HR powiadamia menedżera" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="icHruYLdTanhfY2WVvGW-188" value="Dział HR powiadamia menedżera" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="1590" y="595" width="95" height="70" as="geometry" />
         </mxCell>
         <mxCell id="icHruYLdTanhfY2WVvGW-190" value="NIE" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;" edge="1" parent="1" source="icHruYLdTanhfY2WVvGW-186" target="icHruYLdTanhfY2WVvGW-188">
@@ -329,10 +329,10 @@
             <mxPoint x="1505" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="icHruYLdTanhfY2WVvGW-193" value="Spotkanie skutkuje&lt;br&gt;&amp;nbsp;zatrudnieniem?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="icHruYLdTanhfY2WVvGW-193" value="Spotkanie skutkuje&lt;br&gt;&amp;nbsp;zatrudnieniem?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="260" y="970" width="140" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="icHruYLdTanhfY2WVvGW-199" value="Wygenerowanie&amp;nbsp; umowy i NDA&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="icHruYLdTanhfY2WVvGW-199" value="Wygenerowanie&amp;nbsp; umowy i NDA&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="500" y="1140" width="105" height="70" as="geometry" />
         </mxCell>
         <mxCell id="icHruYLdTanhfY2WVvGW-202" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="icHruYLdTanhfY2WVvGW-199">
@@ -366,7 +366,7 @@
             <mxPoint x="650" y="1180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="icHruYLdTanhfY2WVvGW-210" value="Wpisanie kandydata do systemu HR jako pracownik" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="icHruYLdTanhfY2WVvGW-210" value="Wpisanie kandydata do systemu HR jako pracownik" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="635" y="1140" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="icHruYLdTanhfY2WVvGW-226" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="icHruYLdTanhfY2WVvGW-213" target="icHruYLdTanhfY2WVvGW-225">
@@ -387,7 +387,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="icHruYLdTanhfY2WVvGW-216" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="icHruYLdTanhfY2WVvGW-216" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="1351.25" y="372.5" width="85" height="85" as="geometry" />
         </mxCell>
         <mxCell id="icHruYLdTanhfY2WVvGW-217" value="" style="shape=cross;whiteSpace=wrap;html=1;size=0.10947368421052034;fillColor=#000000;" vertex="1" parent="1">
@@ -420,10 +420,10 @@
             <mxPoint x="1440" y="407.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="icHruYLdTanhfY2WVvGW-225" value="Tworzy plan naprawczy" style="whiteSpace=wrap;html=1;rounded=0;dashed=1;" vertex="1" parent="1">
+        <mxCell id="icHruYLdTanhfY2WVvGW-225" value="Tworzy plan naprawczy" style="whiteSpace=wrap;html=1;rounded=0;dashed=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="1040" y="1080" width="112" height="63" as="geometry" />
         </mxCell>
-        <mxCell id="icHruYLdTanhfY2WVvGW-230" value="wysyła pracowników na szkolenia" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+        <mxCell id="icHruYLdTanhfY2WVvGW-230" value="wysyła pracowników na szkolenia" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="1160" y="1080" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="icHruYLdTanhfY2WVvGW-235" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=default;dashed=1;exitX=0.704;exitY=1.035;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="icHruYLdTanhfY2WVvGW-213">
@@ -436,7 +436,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="icHruYLdTanhfY2WVvGW-213" value="Ustala przyczynę nie spełnionych wymagań" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="icHruYLdTanhfY2WVvGW-213" value="Ustala przyczynę nie spełnionych wymagań" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="1070" y="960" width="170" height="50" as="geometry" />
         </mxCell>
         <mxCell id="icHruYLdTanhfY2WVvGW-237" value="TAK" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;" edge="1" parent="1" source="icHruYLdTanhfY2WVvGW-186">
@@ -446,7 +446,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="icHruYLdTanhfY2WVvGW-238" value="Pracownik otrzymuje premię" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="icHruYLdTanhfY2WVvGW-238" value="Pracownik otrzymuje premię" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="845" y="780" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="icHruYLdTanhfY2WVvGW-239" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="icHruYLdTanhfY2WVvGW-241" target="icHruYLdTanhfY2WVvGW-238">
@@ -463,7 +463,7 @@
             <mxPoint x="163" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="icHruYLdTanhfY2WVvGW-241" value="Czy ocena spełnia kryterium przyznania premii?" style="rhombus;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="icHruYLdTanhfY2WVvGW-241" value="Czy ocena spełnia kryterium przyznania premii?" style="rhombus;whiteSpace=wrap;html=1;align=center;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="1335" y="740" width="140" height="140" as="geometry" />
         </mxCell>
         <mxCell id="icHruYLdTanhfY2WVvGW-243" value="stop" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -481,7 +481,7 @@
         <mxCell id="icHruYLdTanhfY2WVvGW-246" value="Nowy pracownik" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2000" y="90" width="320" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="icHruYLdTanhfY2WVvGW-247" value="System wysłał powiadomienie w związku z kończącym się terminem ocen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="icHruYLdTanhfY2WVvGW-247" value="System wysłał powiadomienie w związku z kończącym się terminem ocen" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="1310" y="160" width="200" height="50" as="geometry" />
         </mxCell>
         <mxCell id="icHruYLdTanhfY2WVvGW-249" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="icHruYLdTanhfY2WVvGW-247">
