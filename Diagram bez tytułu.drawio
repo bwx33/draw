@@ -34,7 +34,7 @@
         <mxCell id="icHruYLdTanhfY2WVvGW-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="icHruYLdTanhfY2WVvGW-15" target="icHruYLdTanhfY2WVvGW-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="icHruYLdTanhfY2WVvGW-15" value="Wstępne automatyczne sprawdzenie CV w kontekście wymagań oferty" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="icHruYLdTanhfY2WVvGW-15" value="Wstępne automatyczne sprawdzenie CV w kontekście wymagań oferty pracy" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="605" y="380" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="icHruYLdTanhfY2WVvGW-16" value="Ogłoszenie umieszczone w systemie" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
