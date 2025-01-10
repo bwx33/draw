@@ -390,7 +390,7 @@
         <mxCell id="icHruYLdTanhfY2WVvGW-216" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1481.25" y="372.5" width="85" height="85" as="geometry" />
         </mxCell>
-        <mxCell id="icHruYLdTanhfY2WVvGW-217" value="" style="shape=cross;whiteSpace=wrap;html=1;size=0.16942355889724198;fillColor=#000000;" vertex="1" parent="1">
+        <mxCell id="icHruYLdTanhfY2WVvGW-217" value="" style="shape=cross;whiteSpace=wrap;html=1;size=0.10947368421052034;fillColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="1497.5" y="390" width="52.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="icHruYLdTanhfY2WVvGW-218" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="icHruYLdTanhfY2WVvGW-216">
