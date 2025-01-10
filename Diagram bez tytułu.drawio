@@ -475,8 +475,11 @@
             <mxPoint x="1370" y="750" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="icHruYLdTanhfY2WVvGW-246" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2000" y="90" width="120" height="60" as="geometry" />
+        <mxCell id="icHruYLdTanhfY2WVvGW-259" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="icHruYLdTanhfY2WVvGW-246" target="icHruYLdTanhfY2WVvGW-254">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="icHruYLdTanhfY2WVvGW-246" value="Nowy pracownik" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2000" y="90" width="320" height="50" as="geometry" />
         </mxCell>
         <mxCell id="icHruYLdTanhfY2WVvGW-247" value="System wysłał powiadomienie w związku z kończącym się terminem ocen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1310" y="160" width="200" height="50" as="geometry" />
@@ -492,6 +495,77 @@
             <mxPoint x="1310" y="180" as="sourcePoint" />
             <mxPoint x="1360" y="130" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="icHruYLdTanhfY2WVvGW-251" value="Administrator" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2640" y="90" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="icHruYLdTanhfY2WVvGW-252" value="Menedżer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2320" y="90" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="icHruYLdTanhfY2WVvGW-253" value="ONBOARDING NOWEGO PRACOWNIKA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2000" y="60" width="1270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="icHruYLdTanhfY2WVvGW-254" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2000" y="140" width="320" height="1060" as="geometry" />
+        </mxCell>
+        <mxCell id="icHruYLdTanhfY2WVvGW-255" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2320" y="140" width="320" height="1060" as="geometry" />
+        </mxCell>
+        <mxCell id="icHruYLdTanhfY2WVvGW-256" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2640" y="140" width="320" height="1060" as="geometry" />
+        </mxCell>
+        <mxCell id="icHruYLdTanhfY2WVvGW-257" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2960" y="120" width="310" height="1080" as="geometry" />
+        </mxCell>
+        <mxCell id="icHruYLdTanhfY2WVvGW-258" value="Dział HR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2960" y="90" width="310" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="icHruYLdTanhfY2WVvGW-263" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="icHruYLdTanhfY2WVvGW-260" target="icHruYLdTanhfY2WVvGW-262">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="icHruYLdTanhfY2WVvGW-260" value="Zdefiniowanie celów na pierwsze miesiące pracy" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2375" y="160" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="icHruYLdTanhfY2WVvGW-261" value="Rejestracja pracownika" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2980" y="160" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="icHruYLdTanhfY2WVvGW-272" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="icHruYLdTanhfY2WVvGW-262" target="icHruYLdTanhfY2WVvGW-271">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2480" y="400" />
+              <mxPoint x="2370" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="icHruYLdTanhfY2WVvGW-262" value="Zaplanowanie szkoleń pracownika" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2380" y="250" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="icHruYLdTanhfY2WVvGW-270" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="icHruYLdTanhfY2WVvGW-264" target="icHruYLdTanhfY2WVvGW-269">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="icHruYLdTanhfY2WVvGW-264" value="Integracja z zespołem" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2030" y="280" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="icHruYLdTanhfY2WVvGW-267" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="icHruYLdTanhfY2WVvGW-265" target="icHruYLdTanhfY2WVvGW-264">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="icHruYLdTanhfY2WVvGW-265" value="Praca na szkoleniach" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2030" y="160" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="icHruYLdTanhfY2WVvGW-266" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="icHruYLdTanhfY2WVvGW-262" target="icHruYLdTanhfY2WVvGW-265">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2375" y="280" as="sourcePoint" />
+            <mxPoint x="2425" y="230" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2350" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="icHruYLdTanhfY2WVvGW-269" value="Rozwiązywanie pierwszych zadań" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2030" y="400" width="250" height="62.5" as="geometry" />
+        </mxCell>
+        <mxCell id="icHruYLdTanhfY2WVvGW-271" value="Wspólne omówienie postępów i dalszych planów" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2200" y="490" width="240" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
