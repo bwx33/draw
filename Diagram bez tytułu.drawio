@@ -20,7 +20,7 @@
           <mxGeometry x="40" y="100" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="icHruYLdTanhfY2WVvGW-8" value="Rekruter HR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="100" width="250" height="60" as="geometry" />
+          <mxGeometry x="240" y="100" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="icHruYLdTanhfY2WVvGW-9" value="System HR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="100" width="270" height="60" as="geometry" />
