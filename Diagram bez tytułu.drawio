@@ -5,13 +5,13 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="icHruYLdTanhfY2WVvGW-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="100" width="200" height="1070" as="geometry" />
+          <mxGeometry x="40" y="100" width="200" height="1040" as="geometry" />
         </mxCell>
         <mxCell id="icHruYLdTanhfY2WVvGW-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="95" width="250" height="1075" as="geometry" />
+          <mxGeometry x="240" y="95" width="250" height="1045" as="geometry" />
         </mxCell>
         <mxCell id="icHruYLdTanhfY2WVvGW-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="100" width="270" height="1070" as="geometry" />
+          <mxGeometry x="480" y="100" width="270" height="1040" as="geometry" />
         </mxCell>
         <mxCell id="icHruYLdTanhfY2WVvGW-6" value="PROCES REKRUTACJI PRACOWNIKA" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="40" y="60" width="710" height="40" as="geometry" />
