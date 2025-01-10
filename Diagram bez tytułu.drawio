@@ -436,7 +436,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="icHruYLdTanhfY2WVvGW-213" value="Ustala przyczynę" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="icHruYLdTanhfY2WVvGW-213" value="Ustala przyczynę nie spełnionych wymagań" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1070" y="960" width="170" height="50" as="geometry" />
         </mxCell>
         <mxCell id="icHruYLdTanhfY2WVvGW-237" value="TAK" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;" edge="1" parent="1" source="icHruYLdTanhfY2WVvGW-186">
