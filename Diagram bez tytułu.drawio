@@ -496,7 +496,7 @@
             <mxPoint x="1360" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="icHruYLdTanhfY2WVvGW-251" value="Administrator" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="icHruYLdTanhfY2WVvGW-251" value="Administracja" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2640" y="90" width="320" height="60" as="geometry" />
         </mxCell>
         <mxCell id="icHruYLdTanhfY2WVvGW-252" value="Menedżer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -525,6 +525,9 @@
         </mxCell>
         <mxCell id="icHruYLdTanhfY2WVvGW-260" value="Zdefiniowanie celów na pierwsze miesiące pracy" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2375" y="160" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="icHruYLdTanhfY2WVvGW-281" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="icHruYLdTanhfY2WVvGW-261" target="icHruYLdTanhfY2WVvGW-280">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="icHruYLdTanhfY2WVvGW-261" value="Rejestracja pracownika" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2980" y="160" width="260" height="60" as="geometry" />
@@ -575,6 +578,29 @@
             <mxPoint x="2150" y="539.38" as="sourcePoint" />
             <mxPoint x="2200" y="489.38" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="icHruYLdTanhfY2WVvGW-280" value="Dodanie do systemu płacowego" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2980" y="290" width="260" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="icHruYLdTanhfY2WVvGW-288" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="icHruYLdTanhfY2WVvGW-282">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2800" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="icHruYLdTanhfY2WVvGW-282" value="Wydanie i prowadzenie rejestru wydanego sprzętu służbowego" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2680" y="160" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="icHruYLdTanhfY2WVvGW-296" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="icHruYLdTanhfY2WVvGW-294" target="icHruYLdTanhfY2WVvGW-295">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="icHruYLdTanhfY2WVvGW-294" value="Zdecydować czy pracownik potrzebuje służbowego laptopa" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="2680" y="270" width="240" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="icHruYLdTanhfY2WVvGW-295" value="Zdecydować czy pracownik potrzebuje służbowego ubrania" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="2675" y="360" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="icHruYLdTanhfY2WVvGW-297" value="Zdecydować czy pracownik potrzebuje służbowy samochód" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="2675" y="450" width="255" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
