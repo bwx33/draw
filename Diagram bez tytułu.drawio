@@ -299,7 +299,7 @@
             <mxPoint x="1495" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="icHruYLdTanhfY2WVvGW-153" value="Pracownik wypełnia arkusz i przesyła go do menadżera" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="icHruYLdTanhfY2WVvGW-153" value="Wypełnia arkusz i przesyła go do menadżera" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="955" y="393.76" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="icHruYLdTanhfY2WVvGW-155" value="Przelicza zebrane dane i sprawdza czy są spełnione wymagania HR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
