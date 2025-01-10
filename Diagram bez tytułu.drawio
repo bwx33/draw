@@ -488,16 +488,16 @@
           <mxGeometry x="2000" y="60" width="1270" height="30" as="geometry" />
         </mxCell>
         <mxCell id="icHruYLdTanhfY2WVvGW-254" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2000" y="140" width="320" height="1060" as="geometry" />
+          <mxGeometry x="2000" y="140" width="320" height="860" as="geometry" />
         </mxCell>
         <mxCell id="icHruYLdTanhfY2WVvGW-255" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2320" y="140" width="320" height="1060" as="geometry" />
+          <mxGeometry x="2320" y="140" width="320" height="860" as="geometry" />
         </mxCell>
         <mxCell id="icHruYLdTanhfY2WVvGW-256" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2640" y="140" width="320" height="1060" as="geometry" />
+          <mxGeometry x="2640" y="140" width="320" height="860" as="geometry" />
         </mxCell>
         <mxCell id="icHruYLdTanhfY2WVvGW-257" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2960" y="120" width="310" height="1080" as="geometry" />
+          <mxGeometry x="2960" y="120" width="310" height="880" as="geometry" />
         </mxCell>
         <mxCell id="icHruYLdTanhfY2WVvGW-258" value="System HR" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#000000;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="2960" y="90" width="310" height="50" as="geometry" />
