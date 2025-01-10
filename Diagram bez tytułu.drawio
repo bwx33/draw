@@ -182,7 +182,7 @@
         <mxCell id="icHruYLdTanhfY2WVvGW-101" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="505" y="340" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="icHruYLdTanhfY2WVvGW-102" value="" style="shape=cross;whiteSpace=wrap;html=1;shadow=0;gradientColor=none;fillColor=#000000;size=0.10628019323671146;" vertex="1" parent="1">
+        <mxCell id="icHruYLdTanhfY2WVvGW-102" value="" style="shape=cross;whiteSpace=wrap;html=1;shadow=0;gradientColor=none;fillColor=#000000;size=0.10415512465374138;" vertex="1" parent="1">
           <mxGeometry x="520" y="355" width="47.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="icHruYLdTanhfY2WVvGW-105" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="icHruYLdTanhfY2WVvGW-101">
@@ -263,7 +263,7 @@
         <mxCell id="icHruYLdTanhfY2WVvGW-146" value="Otrzymuje powiadomienie i prośbę o wypełnienie arkusza samooceny" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="830" y="250" width="150" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="icHruYLdTanhfY2WVvGW-147" value="Dział HR wymaga okresowej oceny pracowników.&lt;br&gt;&amp;nbsp;&lt;br&gt;&lt;b style=&quot;color: rgb(0, 255, 0); background-color: rgb(0, 0, 0);&quot;&gt;&amp;nbsp;[ START ]&amp;nbsp;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="icHruYLdTanhfY2WVvGW-147" value="Dział HR wymaga okresowej oceny pracowników.&lt;br&gt;&lt;div&gt;&lt;b style=&quot;color: rgb(0, 255, 0); background-color: rgb(0, 0, 0);&quot;&gt;&amp;nbsp;[ START ]&amp;nbsp;&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="1590" y="170" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="icHruYLdTanhfY2WVvGW-150" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="icHruYLdTanhfY2WVvGW-143" target="icHruYLdTanhfY2WVvGW-151">
@@ -448,8 +448,8 @@
         <mxCell id="icHruYLdTanhfY2WVvGW-241" value="Czy ocena spełnia kryterium przyznania premii?" style="rhombus;whiteSpace=wrap;html=1;align=center;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="1335" y="740" width="140" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="icHruYLdTanhfY2WVvGW-243" value="&lt;font style=&quot;color: rgb(255, 0, 0); background-color: rgb(0, 0, 0);&quot;&gt;&lt;b&gt;STOP&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1470" y="880" width="40" height="40" as="geometry" />
+        <mxCell id="icHruYLdTanhfY2WVvGW-243" value="&lt;font style=&quot;color: rgb(255, 0, 0); background-color: rgb(0, 0, 0);&quot;&gt;&lt;b&gt;STOP&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1470" y="880" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="icHruYLdTanhfY2WVvGW-244" value="&lt;font&gt;NIE&lt;/font&gt;" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;fontSize=12;" edge="1" parent="1" source="icHruYLdTanhfY2WVvGW-241" target="icHruYLdTanhfY2WVvGW-243">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -460,7 +460,7 @@
         <mxCell id="icHruYLdTanhfY2WVvGW-259" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="icHruYLdTanhfY2WVvGW-246" target="icHruYLdTanhfY2WVvGW-254">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="icHruYLdTanhfY2WVvGW-246" value="Nowy pracownik" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="icHruYLdTanhfY2WVvGW-246" value="Nowy pracownik" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=default;strokeWidth=2;fontStyle=1;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="2000" y="90" width="320" height="50" as="geometry" />
         </mxCell>
         <mxCell id="icHruYLdTanhfY2WVvGW-247" value="System wysłał powiadomienie w związku z kończącym się terminem oceniania" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
@@ -478,13 +478,13 @@
             <mxPoint x="1360" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="icHruYLdTanhfY2WVvGW-251" value="Administracja" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="icHruYLdTanhfY2WVvGW-251" value="Administracja" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=default;strokeWidth=2;fontStyle=1;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="2640" y="90" width="320" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="icHruYLdTanhfY2WVvGW-252" value="Menedżer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="icHruYLdTanhfY2WVvGW-252" value="Menedżer" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=default;strokeWidth=2;fontStyle=1;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="2320" y="90" width="320" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="icHruYLdTanhfY2WVvGW-253" value="ONBOARDING NOWEGO PRACOWNIKA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="icHruYLdTanhfY2WVvGW-253" value="ONBOARDING NOWEGO PRACOWNIKA" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2000" y="60" width="1270" height="30" as="geometry" />
         </mxCell>
         <mxCell id="icHruYLdTanhfY2WVvGW-254" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -499,7 +499,7 @@
         <mxCell id="icHruYLdTanhfY2WVvGW-257" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2960" y="120" width="310" height="1080" as="geometry" />
         </mxCell>
-        <mxCell id="icHruYLdTanhfY2WVvGW-258" value="Dział HR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="icHruYLdTanhfY2WVvGW-258" value="Dział HR" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#000000;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="2960" y="90" width="310" height="50" as="geometry" />
         </mxCell>
         <mxCell id="icHruYLdTanhfY2WVvGW-263" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="icHruYLdTanhfY2WVvGW-260" target="icHruYLdTanhfY2WVvGW-262">
